@@ -2,7 +2,7 @@ const WIN_SCORE = 10;
 const INTERVAL = 700;
 const MAX_GONE_TIME = 18000;
 const MIN_TIME = 500;
-const MAX_HUNGY_TIME = 5000;
+const MAX_HUNGRY_TIME = 5000;
 
 let score = 0;
 
