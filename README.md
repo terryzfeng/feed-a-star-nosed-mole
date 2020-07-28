@@ -1,7 +1,7 @@
 # FEED-A-MOLE
-Based on Whack-a-Mole, but cuter. Feed 10 moles to win the game!
+Browser game written in HTML5, CSS3, and JavaScript
 
-[Play the game here!](https://terryzfeng.github.io/feed-a-mole)
+[Play the game here!](https://terryzfeng.github.io/feed-a-star-mole)
 
 ![Preview of the Game](./images/Preview.jpg)
 
