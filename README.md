@@ -12,6 +12,7 @@ Inspired by the popular game of Whack-a-Mole, feed these cute furry friends to g
 
 ### Rules:
 10 points to win:
+
 2 points - King Star-Nosed Mole<br>
 1 point - Star-Nosed Mole
 
