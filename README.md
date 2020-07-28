@@ -31,7 +31,7 @@ These 4 phases will cycle indefinitely. Currently moles appear for 500-5000ms, a
 
 Excercise developed by [Brian Holt](https://frontendmasters.com/teachers/brian-holt/)
 
-Artwork provided by [Alice Brereton](https://pickedalice.com)
+Artwork provided by [Alice Brereton](https://www.pickledalice.com/)
 
 All images can be separately downloaded [here](https://frontendmasters.github.io/bootcamp/mole.zip)
 
