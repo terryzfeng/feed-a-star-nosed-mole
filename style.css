@@ -56,6 +56,10 @@ body {
     display: none;
 }
 
+.win {
+    height: 100vh;
+}
+
 /* Worm */
 .worm {
     width: 1660px;

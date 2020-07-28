@@ -1,15 +1,21 @@
+const WIN_SCORE = 10;
+const INTERVAL = 700;
+const MAX_GONE_TIME = 18000;
+const MIN_TIME = 500;
+const MAX_HUNGY_TIME = 5000;
+
 let score = 0;
 
 function getSadInterval() {
-    return Date.now() + 700;
+    return Date.now() + INTERVAL;
 }
 
 function getGoneInterval() {
-    return Date.now() + Math.floor(Math.random() * 18000) + 500;
+    return Date.now() + Math.floor(Math.random() * MAX_GONE_TIME) + MIN_TIME;
 }
 
 function getHungryInterval() {
-    return Date.now() + Math.floor(Math.random() * 5000) + 1000;
+    return Date.now() + Math.floor(Math.random() * MAX_HUNGRY_TIME) + MIN_TIME;
 }
 
 function getKingStatus() {
@@ -142,11 +148,11 @@ function feed(event) {
         mole.node.children[0].src = "./mole-game/mole-fed.png";
     }
 
-    if (score >= 10) {
+    if (score >= WIN_SCORE) {
         win();
     }
 
-    document.querySelector(".worm-container").style.width = `${10 * score}%`
+    document.querySelector(".worm-container").style.width = `${score/WIN_SCORE * 100}%`;
 }
 
 function win() {
