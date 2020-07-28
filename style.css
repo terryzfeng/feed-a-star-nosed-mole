@@ -28,7 +28,11 @@ body {
 }
 
 .hole {
-    background-color: black;
+    background-color: #40100f;
+    filter: drop-shadow(0 0 0.75rem black);
+    box-shadow: 20px 10px 20px 5px #281009 inset,
+        0px 0px 0px 20px rgba(100, 50, 0, 0.2),
+        0px 0px 0px 40px rgba(0, 10, 0, 0.2);
     border-radius: 50%;
     overflow: visible;
     width: 267px;
@@ -67,7 +71,7 @@ body {
 
 .worm-container {
     overflow: hidden;
-    transition: .5s ease-in-out;
+    transition: 0.5s ease-in-out;
 }
 
 .worm-box {
