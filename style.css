@@ -51,6 +51,7 @@ body {
     cursor: url(./mole-game/cursor-worm.png), default;
 }
 
-.gone {
+.gone,
+.hide {
     display: none;
 }
