@@ -1,7 +1,7 @@
 # FEED-A-STAR-NOSED-MOLE
 Browser game written in HTML5, CSS3, and JavaScript
 
-[Play the game here!](https://terryzfeng.github.io/feed-a-star-mole)
+[Play the game here!](https://terryzfeng.github.io/feed-a-star-nosed-mole)
 
 ![Demo of Game](./images/Preview.jpg)
 
