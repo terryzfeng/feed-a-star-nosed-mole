@@ -29,11 +29,11 @@ These 4 phases will cycle indefinitely. Currently moles appear for 500-5000ms, a
 - User clicks mole in time -> show fed mole
 - Once sad or fed -> show a mole butt
 
-Excercise developed by [Brian Holt](https://frontendmaster.com/teachers/brian-holt/)
+Excercise developed by [Brian Holt](https://frontendmasters.com/teachers/brian-holt/)
 
 Artwork provided by [Alice Brereton](https://pickedalice.com)
 
-All images can be separately downloaded [here](https://frontendmaster.github.io/bootcamp/mole.zip)
+All images can be separately downloaded [here](https://frontendmasters.github.io/bootcamp/mole.zip)
 
 
 &ndash; terry feng
